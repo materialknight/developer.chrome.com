@@ -16,7 +16,7 @@ Before you start writing take a moment to look over the
 [developer.chrome.com handbook](https://developer.chrome.com/docs/handbook) and
 familiarize yourself with the process.
 
-## Building the site 🏗
+## delete
 
 You'll need a recent version of [Node](https://nodejs.org/): v14 (LTS) or higher.
 To check your node version run `node -v` in your terminal.
@@ -24,7 +24,7 @@ To check your node version run `node -v` in your terminal.
 If you don't have node, or if you need to upgrade, we recommend using the [Node
 Version Manager (nvm)](https://github.com/nvm-sh/nvm).
 
-### Clone the repo
+### delete
 
 ⚠️ If you'd like to contribute (and you're not a member of the core team), be sure to fork the repo first, and clone the fork.
 
@@ -32,7 +32,7 @@ Version Manager (nvm)](https://github.com/nvm-sh/nvm).
 git clone https://github.com/GoogleChrome/developer.chrome.com.git
 ```
 
-### Install dependencies
+###delete
 
 ```bash
 npm ci
